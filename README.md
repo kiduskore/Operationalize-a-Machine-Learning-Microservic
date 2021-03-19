@@ -1,4 +1,4 @@
-<img src="https://circleci.com/gh/kiduskore/operationalize-a-machine-learning-Microservice-API.svg?style=svg" alt="kiduskore"/>
+<img src="https://circleci.com/gh/kiduskore/Operationalize-a-Machine-Learning-Microservice.svg?style=svg" alt="kiduskore"/>
 
 **Operationalize-a-Machine-Learning-Microservice-API
 Microservice Project [Udacity Cloud DevOps Engineer Nanodegree]
